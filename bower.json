@@ -1,6 +1,6 @@
 {
  "name": "constants",
- "version": "3.24.10",
+ "version": "3.46.1",
  "main": "constants.min.js",
  "description": "'constants' nodejs core module browserify-ied with `--standalone constants`. Should support all module systems (commonjs, AMD & `window.constants`) - check browserify docs.",
  "keywords": [
